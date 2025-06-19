@@ -21,5 +21,6 @@ class Solution:
                 nums[x]=int(a/p)
             else:
                 nums[x]=b
-        return nums
+        return 
+#done
         
