@@ -6,8 +6,6 @@
 # Each of the nine 3 x 3 sub-boxes of the grid must contain the 
 # digits 1-9 without repetition.
 
-
-
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         for x in board:
