@@ -15,7 +15,6 @@
 # You must do this by modifying the input array in-place 
 # with O(1) extra memory.
 
-
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         m=[]
