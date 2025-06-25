@@ -1,4 +1,5 @@
 #multiple operations on a string
+#these operations are limited
 
 
 def lol(x):
