@@ -2,6 +2,7 @@
 # Given the head of a linked list, rotate the list 
 # to the right by k places.
 
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
