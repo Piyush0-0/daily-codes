@@ -12,7 +12,6 @@
 # Explanation: There is no common prefix among the input strings.
 
 
-
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if len(strs)==1:
