@@ -1,7 +1,6 @@
 #multiple operations on a string
 #these operations are limited
 
-
 def lol(x):
     if len(x)<3:
         return x
