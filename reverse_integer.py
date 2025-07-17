@@ -16,7 +16,6 @@
 # Input: x = 120
 # Output: 21
 
-
 class Solution:
     def reverse(self, x: int) -> int:
         p=x
