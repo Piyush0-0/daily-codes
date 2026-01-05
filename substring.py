@@ -2,6 +2,7 @@
 # Given a string s, find the length of the longest substring 
 # without duplicate characters
 
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         if len(s)<2:
